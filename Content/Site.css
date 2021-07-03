@@ -1,0 +1,87 @@
+﻿.navbar-inverse {
+    background-color: #33CCFF;
+    border: 1px solid #33CCFF;
+    border-color: #33CCFF;
+    border-radius: 5%;
+}
+    .navbar-inverse .navbar-nav > li > a {
+        color: #EEEEEE;
+    }
+    .navbar-inverse .navbar-brand {
+        color: #EEEEEE;
+    }
+.navbar-nav {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    outline: cyan;
+    outline-style: double;
+    overflow: auto;
+}
+
+.navbar-fixed-top {
+    top: 0;
+    border-bottom-color: gray;
+}
+
+.navbar-fixed-top, .navbar-fixed-bottom {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+}
+h2, .h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+    color: darkslateblue;
+    text-indent: 5%;
+    font-weight: bolder;
+    text-shadow: 2px 2px red;
+}
+
+.btn-primary {
+    color: beige;
+    background-color: cadetblue;
+    border-color: cadetblue;
+    border-radius: 5px;
+    line-height: inherit;
+    font-size: initial;
+    font-weight: bold;
+}
+
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+user agent stylesheet
+div {
+    display: block;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #fff;
+}
+
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}

@@ -111,3 +111,10 @@ F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\obj\Debug\Big
 F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
 F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
 F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.csprojAssemblyReference.cache
+F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddAttendance.resources
+F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Net.Http.Formatting.dll
+F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Web.Http.dll
+F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Web.Http.WebHost.dll
+F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
+F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Web.Http.xml
+F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml

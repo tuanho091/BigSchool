@@ -37,13 +37,13 @@
                     var button = $(e.target);
                     $.post("/api/Attendances", { courseId: button.attr("data-course-id") })
                         .done(function () {
-                            button -
+                            button
                                 .removeClass("btn-default")
-                                    .addClass("btn-info")
-                                    .text("Going")
+                                .addClass("btn-info")
+                                .text("Going");
                         })
                         .fail(function () {
-                            alert("Sthing Failed");
+                            alert("Something failed");
                         })
 
                 });

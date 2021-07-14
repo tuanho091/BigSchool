@@ -118,3 +118,4 @@ F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.We
 F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Net.Http.Formatting.xml
 F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Web.Http.xml
 F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
+F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources

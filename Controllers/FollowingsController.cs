@@ -1,12 +1,18 @@
 ﻿using BigSchool.DTOs;
 using BigSchool.Models;
+using BigSchool.ViewModels;
 using Microsoft.AspNet.Identity;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Mvc;
+using AuthorizeAttribute = System.Web.Http.AuthorizeAttribute;
+using HttpDeleteAttribute = System.Web.Http.HttpDeleteAttribute;
+using HttpPostAttribute = System.Web.Http.HttpPostAttribute;
 
 namespace BigSchool.Controllers
 {
@@ -36,5 +42,9 @@ namespace BigSchool.Controllers
             _db.SaveChanges();
             return Ok();
         }
+
+
+
+
     }
 }

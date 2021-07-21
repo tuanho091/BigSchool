@@ -119,3 +119,4 @@ F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Ne
 F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Web.Http.xml
 F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\bin\System.Web.Http.WebHost.xml
 F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
+F:\TaiLieu\LapTrinhMang\THUC_HANH\LabBigSchool\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.AddIsCanceledColumnToCourse.resources
